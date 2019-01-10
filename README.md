@@ -1,1 +1,2 @@
-# Unity_Arkanoid
+WebGL build:
+https://ajaxvs.github.io/unity/arkanoid/
